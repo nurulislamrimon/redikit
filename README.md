@@ -110,7 +110,7 @@ MIT License © Nurul Islam Rimon
 
 ## Repository
 
-[GitHub - nurulislamrimon/redikit](https://github.com/nurulislamrimon/redis-toolkits-ts)
+[GitHub - nurulislamrimon/redikit](https://github.com/nurulislamrimon/redikit)
 
 ---
 
