@@ -4,6 +4,10 @@
   "description": "TypeScript version of lightweight Redis utility functions for caching and pub/sub",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
